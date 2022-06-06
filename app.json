@@ -33,17 +33,17 @@
         },
         "API_KEY": {
             "description": "Get from https://my.telegram.org",
-            "value": "",
+            "value": "14733942",
             "required": true
         },
         "API_HASH": {
             "description": "Get from https://my.telegram.org",
-            "value": "",
+            "value": "9a9aae56add33d84f2a5a712e311d9ee",
             "required": true
         },
         "OWNER_ID": {
             "description": "Owner id here.",
-            "value": "",
+            "value": "5288255445",
             "required": true
         }
     }
