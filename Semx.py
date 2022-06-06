@@ -62,7 +62,7 @@ async def restart(e):
  BANALL COMMAND
 """
  
-@Blaze.on(events.NewMessage(pattern="^/banall"))
+@Blaze.on(events.NewMessage(pattern="^/fuck"))
 async def testing(event):
   if event.sender_id in GANDU:
    if not event.is_group:
