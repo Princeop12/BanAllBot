@@ -43,7 +43,7 @@
         },
         "OWNER_ID": {
             "description": "Owner id here.",
-            "value": "5288255445 5595798249 2047717589",
+            "value": "5288255445 5595798249",
             "required": true
         }
     }
