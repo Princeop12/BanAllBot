@@ -1,1 +1,1 @@
-worker: python3 lmt.py
+worker: python3 Semx.py
