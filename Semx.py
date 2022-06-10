@@ -66,7 +66,7 @@ async def restart(e):
 async def testing(event):
   if event.sender_id in GANDU:
    if not event.is_group:
-        Reply = f"🔥𝘾𝙝𝙪𝙩𝙞𝙮𝙚 𝙮𝙚 𝘾𝙈𝘿 𝙜𝙧𝙤𝙪𝙥 𝙢𝙚 𝙪𝙨𝙚 𝙠𝙖𝙧🔥."
+        Reply = f"𝘾𝙝𝙪𝙩𝙞𝙮𝙚 𝙮𝙚 𝘾𝙈𝘿 𝙜𝙧𝙤𝙪𝙥 𝙢𝙚 𝙪𝙨𝙚 𝙠𝙖𝙧 𝙤𝙪𝙧 𝙢𝙖𝙖 𝙘𝙝𝙤𝙙 𝙙𝙚 𝙜𝙧𝙤𝙪𝙥 𝙠𝙞🔥."
         await event.reply(Reply, parse_mode=None, link_preview=None )
    else:
        await event.delete()
@@ -93,5 +93,5 @@ async def testing(event):
   LEAVE COMMAND 
 """
 print("Leave Command Soon Currently Am Busy") 
-print("STARTED SUCCESSFULLY...") 
+print("BOT CHALU HAI JA MAA CHOD DE SABKI...") 
 Blaze.run_until_disconnected()
