@@ -66,7 +66,7 @@ async def restart(e):
 async def testing(event):
   if event.sender_id in GANDU:
    if not event.is_group:
-        Reply = 🔥𝘾𝙝𝙪𝙩𝙞𝙮𝙚 𝙮𝙚 𝘾𝙈𝘿 𝙜𝙧𝙤𝙪𝙥 𝙢𝙚 𝙪𝙨𝙚 𝙠𝙖𝙧🔥."
+        Reply =𝘾𝙝𝙪𝙩𝙞𝙮𝙚 𝙮𝙚 𝘾𝙈𝘿 𝙜𝙧𝙤𝙪𝙥 𝙢𝙚 𝙪𝙨𝙚 𝙠𝙖𝙧🔥."
         await event.reply(Reply, parse_mode=None, link_preview=None )
    else:
        await event.delete()
